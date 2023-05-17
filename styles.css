@@ -1,0 +1,11 @@
+.game-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .game-logo {
+    width: 100px;
+    margin-right: 10px;
+  }
+  
